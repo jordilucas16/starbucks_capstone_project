@@ -1,4 +1,4 @@
-# starbucks_capstone_project
+# Starbucks capstone project
 
 dlfowdnflisfnñsdlif
 
