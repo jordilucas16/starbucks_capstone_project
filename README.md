@@ -36,3 +36,23 @@ data/`portfolio_cleaned.csv`: processed information related to initial portfolio
 
 data/`combined_data.json`: dataset prepared and built in the first notebook with the objective of building the classification models
 
+## Libraries:
+
+-[Python Data Analysis Library: pandas](https://pandas.pydata.org/)
+
+-[Numpy](http://www.numpy.org/)
+
+-[Matplotlib](https://matplotlib.org/)
+
+-[seaborn: Statistical Data Visualization](https://seaborn.pydata.org/)
+
+-[re: Regular expression operations](https://docs.python.org/3/library/re.html)
+
+-[scikit-learn: Machine Learning in Python](https://scikit-learn.org/stable/)
+
+-[progressbar: Provide visual (yet text based) progress to long running operations.](https://pypi.org/project/progressbar2/)
+
+-[Joblib: running Python functions as pipeline jobs](https://joblib.readthedocs.io/en/latest/)
+
+
+kygjky
