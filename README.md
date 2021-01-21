@@ -39,14 +39,35 @@ data/`combined_data.json`: dataset prepared and built in the first notebook with
 ## Libraries:
 
 -[Python Data Analysis Library: pandas](https://pandas.pydata.org/)
+
 -[Numpy: The fundamental package for scientific computing with Python](http://www.numpy.org/)
+
 -[Matplotlib: comprehensive library for creating static, animated, and interactive visualizations in Python](https://matplotlib.org/)
+
 -[seaborn: Statistical Data Visualization](https://seaborn.pydata.org/)
+
 -[re: Regular expression operations](https://docs.python.org/3/library/re.html)
+
 -[scikit-learn: Machine Learning in Python](https://scikit-learn.org/stable/)
+
 -[scipy: Python-based ecosystem of open-source software for mathematics, science, and engineering](https://www.scipy.org/)
+
 -[progressbar: Provide visual (yet text based) progress to long running operations.](https://pypi.org/project/progressbar2/)
+
 -[Joblib: running Python functions as pipeline jobs](https://joblib.readthedocs.io/en/latest/)
 
+## Summary analysis:
 
+To find the best possible model, three different supervised classification algorithms have been used:
 
+* Logistic Regression
+* Gradient Boosting
+* Random Forest
+
+This are the table of metric of them:
+
+|                 | Log. Regression | Gradient Boosting | Random Forest  |
+| -------------   |:---------------:| -----------------:| --------------:|
+| accuracy        | col 3 is        | right-aligned     | $1600          |
+| f1score         | col 2 is        | centered          |   $12          |
+|                 | zebra stripes   | are neat          |    $1          |
