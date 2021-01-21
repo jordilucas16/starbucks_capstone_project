@@ -13,13 +13,13 @@ The project has the following different resources in file form:
 
 The analysis, cleaning, data exploration and construction of models based on the dataset created as a result of the previous steps is divided into two files that should be executed in the following order:
 
-#### Jupyter Notebooks:
+#### Jupyter Notebooks
 
 `Starbucks_Capstone_notebook1.ipynb`
 
 `Starbucks_Capstone_Challenge_Building models.ipynb`
 
-#### Datasets:
+#### Datasets
 
 On the other hand, the initial datasets used for this project are the following:
 
@@ -36,7 +36,7 @@ data/`portfolio_cleaned.csv`: processed information related to initial portfolio
 
 data/`combined_data.json`: dataset prepared and built in the first notebook with the objective of building the classification models
 
-## Libraries:
+## Libraries
 
 -[Python Data Analysis Library: pandas](https://pandas.pydata.org/)
 
@@ -56,7 +56,7 @@ data/`combined_data.json`: dataset prepared and built in the first notebook with
 
 -[Joblib: running Python functions as pipeline jobs](https://joblib.readthedocs.io/en/latest/)
 
-## Summary analysis:
+## Summary analysis
 
 To find the best possible model, three different supervised classification algorithms have been used:
 
@@ -71,3 +71,10 @@ This are the table of metric of them:
 | accuracy        | col 3 is        | right-aligned     | $1600          |
 | f1score         | col 2 is        | centered          |   $12          |
 |                 | zebra stripes   | are neat          |    $1          |
+
+## Acknowledgements
+
+
+These are the main resources, including websites, books or papers that have helped me to find solutions and develop this project.
+
+* [Markdown: Create tables](https://www.makeuseof.com/tag/create-markdown-table/)
