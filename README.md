@@ -22,9 +22,16 @@ Jupyter Notebooks:
 
 On the other hand, the initial datasets used for this project are the following:
 
-`portfolio.json`: containing offer ids and meta data about each offer (duration, type, etc.)
+data/`portfolio.json`: containing offer ids and meta data about each offer (duration, type, etc.)
 
-`transcript.json`: ecords for transactions, offers received, offers viewed, and offers completed
+data/`transcript.json`: records for transactions, offers received, offers viewed, and offers completed
 
-`profile.json`: demographic data for each customer
+data/`profile.json`: demographic data for each customer
+
+
+As a result of the data wranglig and feature engineering operations, two new datasets are created:
+
+data/`portfolio_cleaned.csv`: processed information related to initial portfolio dataset
+
+data/`combined_data.json`: dataset prepared and built in the first notebook with the objective of building the classification models
 
