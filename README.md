@@ -77,4 +77,5 @@ This are the table of metric of them:
 
 These are the main resources, including websites, books or papers that have helped me to find solutions and develop this project.
 
+* [AUC-ROC curve](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
 * [Markdown: Create tables](https://www.makeuseof.com/tag/create-markdown-table/)
