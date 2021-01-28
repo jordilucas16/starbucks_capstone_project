@@ -66,7 +66,7 @@ To find the best possible model, three different supervised classification algor
 * Gradient Boosting
 * Random Forest
 
-Metrics table:
+Metrics outcome:
 
 |                 | Log. Regression | Gradient Boosting | Random Forest  |
 | -------------   |:---------------:| -----------------:| --------------:|
