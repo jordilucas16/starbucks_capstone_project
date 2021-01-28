@@ -72,8 +72,8 @@ Metrics table:
 | -------------   |:---------------:| -----------------:| --------------:|
 | accuracy        |    0.698        |     0.726         |     0.734      |
 | f1score         |    0.694        |     0.725         |     0.729      |
-| precission      | zebra stripes   | are neat          |    $1          |
-| recall          | zebra stripes   | are neat          |    $1          |
+| precission      | 0.667           | 0.691             |    0.707       |
+| recall          | 0.725           | 0.763             |    0.749       |
 
 ## Acknowledgements
 
