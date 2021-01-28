@@ -38,7 +38,7 @@ data/`combined_data.json`: dataset prepared and built in the first notebook with
 
 ## Libraries
 
-* [Python Data Analysis Library: pandas](https://pandas.pydata.org/)
+* [pandas](https://pandas.pydata.org/)
 
 * [Numpy: The fundamental package for scientific computing with Python](http://www.numpy.org/)
 
