@@ -70,12 +70,14 @@ This are the table of metric of them:
 | -------------   |:---------------:| -----------------:| --------------:|
 | accuracy        | col 3 is        | right-aligned     | $1600          |
 | f1score         | col 2 is        | centered          |   $12          |
-|                 | zebra stripes   | are neat          |    $1          |
+| precission      | zebra stripes   | are neat          |    $1          |
+| recall          | zebra stripes   | are neat          |    $1          |
 
 ## Acknowledgements
 
 
 These are the main resources, including websites, books or papers that have helped me to find solutions and develop this project.
 
+* [Hands-on ML with Scikit-Learn, Keras and Tensorflow by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [AUC-ROC curve](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
 * [Markdown: Create tables](https://www.makeuseof.com/tag/create-markdown-table/)
