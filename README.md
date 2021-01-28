@@ -83,4 +83,4 @@ These are the main resources, including websites, books or papers that have help
 * [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html)
 * [Markdown: Create tables](https://www.makeuseof.com/tag/create-markdown-table/)
 
-You can find more information by reading my technical article on Medium.
+You can find more information by reading [my technical article](https://jordiluc16.medium.com/starbucks-capstone-challenge-offer-analysis-and-success-prediction-78574e915dbf) on Medium.
