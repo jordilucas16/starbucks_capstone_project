@@ -64,12 +64,12 @@ To find the best possible model, three different supervised classification algor
 * Gradient Boosting
 * Random Forest
 
-This are the table of metric of them:
+Metrics table:
 
 |                 | Log. Regression | Gradient Boosting | Random Forest  |
 | -------------   |:---------------:| -----------------:| --------------:|
-| accuracy        | col 3 is        | right-aligned     | $1600          |
-| f1score         | col 2 is        | centered          |   $12          |
+| accuracy        |    0.698        |     0.726         |     0.734      |
+| f1score         |    0.694        |     0.725         |     0.729      |
 | precission      | zebra stripes   | are neat          |    $1          |
 | recall          | zebra stripes   | are neat          |    $1          |
 
