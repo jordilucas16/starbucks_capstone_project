@@ -1,6 +1,8 @@
 # Starbucks capstone project
+![alt text](https://github.com/jordilucas16/starbucks_capstone_project/blob/master/coffe_offer_succes.jpeg)
 
 Starbucks capstone project belongs to Udacity Data Science Nanodegree program.
+
 
 ## Motivation
 
