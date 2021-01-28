@@ -81,3 +81,5 @@ These are the main resources, including websites, books or papers that have help
 * [Hands-on ML with Scikit-Learn, Keras and Tensorflow by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [AUC-ROC curve](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
 * [Markdown: Create tables](https://www.makeuseof.com/tag/create-markdown-table/)
+
+You can find more information by reading my technical article on Medium.
