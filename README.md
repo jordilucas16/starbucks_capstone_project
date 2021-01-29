@@ -81,6 +81,7 @@ Metrics outcome:
 These are the main resources, including websites, books or papers that have helped me to find solutions and develop this project.
 
 * [Hands-on ML with Scikit-Learn, Keras and Tensorflow by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+* [Universitat Oberta de Catalunya - Data Science Degree](https://www.uoc.edu/portal/es/index.html)
 * [AUC-ROC curve](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
 * [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html)
 * [Progress Bar](https://progressbar-2.readthedocs.io/en/latest/)
