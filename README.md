@@ -83,6 +83,7 @@ These are the main resources, including websites, books or papers that have help
 * [Hands-on ML with Scikit-Learn, Keras and Tensorflow by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [AUC-ROC curve](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
 * [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html)
+* [Progress Bar](https://progressbar-2.readthedocs.io/en/latest/)
 * [Markdown: Create tables](https://www.makeuseof.com/tag/create-markdown-table/)
 
 You can find more information by reading [my technical article](https://jordiluc16.medium.com/starbucks-capstone-challenge-offer-analysis-and-success-prediction-78574e915dbf) on Medium.
