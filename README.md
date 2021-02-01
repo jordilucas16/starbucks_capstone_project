@@ -84,6 +84,7 @@ These are the main resources, including websites, books or papers that have help
 * [Universitat Oberta de Catalunya - Data Science Degree](https://www.uoc.edu/portal/es/index.html)
 * [kdnuggets.com: Choosing the Right Metric for Evaluating Machine Learning Models](https://www.kdnuggets.com/2018/06/right-metric-evaluating-machine-learning-models-2.html)
 * [kdnuggets.com: More Performance Evaluation Metrics for Classification Problems You Should Know](https://www.kdnuggets.com/2020/04/performance-evaluation-metrics-classification.html)
+* [IArtificial.net: Ensemble methods](https://www.iartificial.net/ensembles-voting-bagging-boosting-stacking/)
 * [Google Developers: AUC-ROC curve](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
 * [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html)
 * [Progress Bar](https://progressbar-2.readthedocs.io/en/latest/)
