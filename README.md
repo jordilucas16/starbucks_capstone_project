@@ -91,4 +91,4 @@ These are the main resources, including websites, books or papers that have help
 * [Progress Bar](https://progressbar-2.readthedocs.io/en/latest/)
 * [Markdown: Create tables](https://www.makeuseof.com/tag/create-markdown-table/)
 
-You can find more information by reading [my technical article](https://jordiluc16.medium.com/starbucks-capstone-challenge-offer-analysis-and-success-prediction-78574e915dbf) on Medium.
+You can find more information by reading [my technical article](https://jordiluc16.medium.com/starbucks-capstone-challenge-offer-analysis-and-success-prediction-78574e915dbf) on The Startup at Medium.
